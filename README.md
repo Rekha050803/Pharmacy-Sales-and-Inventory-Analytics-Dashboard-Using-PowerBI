@@ -118,3 +118,7 @@ This project:
 - Enabled informed, strategic pharmacy decision-making using data.
 
 ---
+
+## ✍️ Read the Full Blog
+
+Check out the detailed blog post here: [**Pharmacy Sales and Inventory Analytics Using Power BI**](https://medium.com/@rekha.prakash0508/tablets-trends-where-healthcare-meets-data-science-0673dc349776)
