@@ -89,6 +89,24 @@ All analysis and predictions are consolidated into a Power BI Dashboard offering
 - Doctor-prescription tracking
 - Predictive insights for planning
 
+---
+
+## 📸 Dashboard Preview
+
+Here’s a snapshot of the Power BI dashboard,
+
+### 🔹 Page 1 – Key Sales Metrics
+![Page 1](images/page1.png)
+
+### 🔹 Page 2 – Statistical Analysis
+![Page 2](images/page2.png)
+
+### 🔹 Page 3 – Statistical Analysis 
+![Page 3](images/page3.png)
+
+### 🔹 Page 4 – Forecasting & Predictive Analysis
+![Page 4](images/page4.png)
+
 🔗 [View Dashboard](https://app.powerbi.com/links/ReA0aFVzoV?ctid=562673cb-3a12-4428-9c2e-82d74fd5889a&pbi_source=linkShare)  
 🎥 [Dashboard Walkthrough Video](https://drive.google.com/file/d/1TzLw6Na8McX-zzxVVAEEG715MXMozhqj/view?usp=sharing)
 
