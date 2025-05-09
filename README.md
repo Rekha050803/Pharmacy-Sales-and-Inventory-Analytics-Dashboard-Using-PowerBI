@@ -96,16 +96,16 @@ All analysis and predictions are consolidated into a Power BI Dashboard offering
 Here’s a snapshot of the Power BI dashboard,
 
 ### 🔹 Page 1 – Key Sales Metrics
-![Page 1](Pharmacy Dashboard/Snapshots/Page1.png)
+![Page 1](Snapshots/Page1.png)
 
 ### 🔹 Page 2 – Statistical Analysis Pt 1
-![Page 2](Pharmacy Dashboard/Snapshots/Page2.png)
+![Page 2](Snapshots/Page2.png)
 
 ### 🔹 Page 3 – Statistical Analysis Pt 2
-![Page 3](Pharmacy Dashboard/Snapshots/Page3.png)
+![Page 3](Snapshots/Page3.png)
 
 ### 🔹 Page 4 – Forecasting & Predictive Analysis
-![Page 4](Pharmacy Dashboard/Snapshots/Page4.png)
+![Page 4](Snapshots/Page4.png)
 
 🔗 [View Dashboard](https://app.powerbi.com/links/ReA0aFVzoV?ctid=562673cb-3a12-4428-9c2e-82d74fd5889a&pbi_source=linkShare)  
 🎥 [Dashboard Walkthrough Video](https://drive.google.com/file/d/1TzLw6Na8McX-zzxVVAEEG715MXMozhqj/view?usp=sharing)
