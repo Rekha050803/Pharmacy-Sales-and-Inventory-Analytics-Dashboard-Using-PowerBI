@@ -91,6 +91,8 @@ All analysis and predictions are consolidated into a Power BI Dashboard offering
 
 🔗 [View Dashboard](https://app.powerbi.com/links/ReA0aFVzoV?ctid=562673cb-3a12-4428-9c2e-82d74fd5889a&pbi_source=linkShare)  
 
+![img alt](https://github.com/Rekha050803/Pharmacy-Sales-and-Inventory-Analytics-Dashboard-Using-PowerBI/blob/67b6b130990f8c0a002fbe9cbc069739cc377fac/Pharmacy%20Dashboard/Snapshots/Page1.png)
+
 🎥 [Dashboard Walkthrough Video](https://drive.google.com/file/d/1TzLw6Na8McX-zzxVVAEEG715MXMozhqj/view?usp=sharing)
 
 ---
