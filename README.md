@@ -31,7 +31,7 @@ This project focuses on leveraging data analytics and machine learning to solve 
   - Quantity, Expiry, Price, GST, Discount  
   - Total Payment
 
-- 📄 [Dataset Link](https://docs.google.com/spreadsheets/d/1qMRmSIWhoCjH6jh9y78FnBhAW_8NQ6W6/edit?usp=drive_link)
+- 📄 [Sample Dataset Link](https://docs.google.com/spreadsheets/d/1qMRmSIWhoCjH6jh9y78FnBhAW_8NQ6W6/edit?usp=drive_link)
 
 ---
 
