@@ -75,7 +75,7 @@ This project focuses on leveraging data analytics and machine learning to solve 
 
 - **ARIMA:** Forecast future sales trends.  
 - **SARIMA:** Capture seasonal patterns in medicine demand.  
-- **Random Forest Classifier:** Predict if a medicine is safe, near expiry, or expired.  
+- **Random Forest Classifier:** Predict if a medicine is safe, near expiry, or expired. Additionally, the dashboard will send timely alerts as mail, when a medicine is close to expiring or has already expired, ensuring proactive management and safety.
 - **Medication Adherence Prediction:** Identify patients likely to drop off medication.
 
 ---
